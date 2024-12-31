@@ -92,9 +92,8 @@ Current balance: 700
 ## How to Run
 1. Copy the code into a Python file (e.g., `account.py`).
 2. Run the script using Python:
-   ```bash
-  Bank_Account (OOP Checkpoint).py
-   ```
+   ```bash Bank_Account (OOP Checkpoint).py ```
+
 
 ## Contributions
 Feel free to contribute by:
